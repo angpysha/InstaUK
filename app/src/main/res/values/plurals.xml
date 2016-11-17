@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="x_fb_friends_on_instagram">
+        <item quantity="other">В Instagram є %1$s ваших друзів з Facebook</item>
+        <item quantity="one">В Instagram є 1 ваш друг з Facebook</item>
+        <item quantity="few">В Instagram є %1$s ваших друга з Facebook</item>
+    </plurals>
+    <plurals name="x_vk_friends_on_instagram">
+        <item quantity="other">В Instagram є %1$s ваших друзів з ВКонтакті</item>
+        <item quantity="one">В Instagram є 1 ваш друг з ВКонтакті</item>
+        <item quantity="few">В Instagram є %1$s ваших друга з ВКонтакті</item>
+    </plurals>
+    <plurals name="x_contacts_on_instagram">
+        <item quantity="other">Ваші контакти в Instagram: %1$s.</item>
+        <item quantity="one">Ваші контакти в Instagram: %1$s.</item>
+        <item quantity="few">Ваші контакти в Instagram: %1$s.</item>
+    </plurals>
+    <plurals name="direct_permissions_choice_decline">
+        <item quantity="other">Відхилити (%1$d)</item>
+        <item quantity="one">Відхилити</item>
+        <item quantity="few">Відхилити (%1$d)</item>
+    </plurals>
+    <plurals name="direct_permissions_choice_allow">
+        <item quantity="other">Дозволити (%1$d)</item>
+        <item quantity="one">Дозволити</item>
+        <item quantity="few">Дозволити (%1$d)</item>
+    </plurals>
+    <plurals name="direct_x_people">
+        <item quantity="other">%1$s людей</item>
+        <item quantity="one">1 людина</item>
+        <item quantity="few">%1$s людей</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">Вони побачать всі попередні повідомлення з цього листування.</item>
+        <item quantity="one">Вони побачать всі попередні повідомлення з цього листування.</item>
+        <item quantity="few">Вони побачать всі попередні повідомлення з цього листування.</item>
+    </plurals>
+    <plurals name="direct_x_message_requests">
+        <item quantity="other">%1$s запитів на листування</item>
+        <item quantity="one">%1$s запит на листування</item>
+        <item quantity="few">%1$s запитів на листування</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">Ви можете вибрати тільки %1$d коментарів за раз.</item>
+        <item quantity="one">Ви можете вибрати тільки %1$d коментар за раз.</item>
+        <item quantity="few">Ви можете вибрати тільки %1$d коментарів за раз.</item>
+    </plurals>
+    <plurals name="x_photos">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">1 фото</item>
+        <item quantity="few">%1$d фото</item>
+    </plurals>
+    <plurals name="x_facebook_friends">
+        <item quantity="other">%1$s друзів з Facebook</item>
+        <item quantity="one">1 друг з Facebook</item>
+        <item quantity="few">%1$s друзів з Facebook</item>
+    </plurals>
+    <plurals name="x_contacts">
+        <item quantity="other">%1$s Контактів</item>
+        <item quantity="one">1 Контакт</item>
+        <item quantity="few">%1$s Контактів</item>
+    </plurals>
+    <plurals name="found_x_fb_friends">
+        <item quantity="other">В Instagram є %1$s ваших друзів з Facebook.</item>
+        <item quantity="one">В Instagram є 1 ваш друг з Facebook.</item>
+        <item quantity="few">В Instagram є %1$s ваших друга з Facebook.</item>
+    </plurals>
+    <plurals name="found_x_vk_friends">
+        <item quantity="other">В Instagram є %1$s ваших друзів з ВКонтакті.</item>
+        <item quantity="one">В Instagram є 1 ваш друг з ВКонтакті.</item>
+        <item quantity="few">В Instagram є %1$s ваших друга з ВКонтакті.</item>
+    </plurals>
+    <plurals name="found_x_contacts">
+        <item quantity="other">Знайдено контактів: %1$s</item>
+        <item quantity="one">1 контакт знайдено.</item>
+        <item quantity="few">Знайдено контактів: %1$s</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
+        <item quantity="few">Вибрано: %1$d</item>
+    </plurals>
+    <plurals name="undo_x_deleted">
+        <item quantity="other">%1$d коментарів видалено. Натисніть, щоб відмінити.</item>
+        <item quantity="one">Коментар видалено. Натисніть, щоб відмінити.</item>
+        <item quantity="few">%1$d коментарів видалено. Натисніть, щоб відмінити.</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d людей</item>
+        <item quantity="one">1 людина</item>
+        <item quantity="few">%1$d людей</item>
+    </plurals>
+    <plurals name="cluster_browsing_x_suggested_accounts">
+        <item quantity="other">%1$d рекомендованих облікових записів</item>
+        <item quantity="one">Рекомендовано 1 обліковий запис</item>
+        <item quantity="few">%1$d рекомендованих облікових записів</item>
+    </plurals>
+    <plurals name="cluster_browsing_topics_selected">
+        <item quantity="other">Вибрано %1$d тем</item>
+        <item quantity="one">Вибрана 1 тема</item>
+        <item quantity="few">Вибрано %1$d тем</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s хвилин тому</item>
+        <item quantity="one">%1$s хвилину тому</item>
+        <item quantity="few">%1$s хвилини тому</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s годин тому</item>
+        <item quantity="one">%1$s годину тому</item>
+        <item quantity="few">%1$s годин тому</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s днів тому</item>
+        <item quantity="one">%1$s день тому</item>
+        <item quantity="few">%1$s днів тому</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s тижнів тому</item>
+        <item quantity="one">%1$s тиждень тому</item>
+        <item quantity="few">%1$s тижнів тому</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s секунд тому</item>
+        <item quantity="one">%1$s секунду тому</item>
+        <item quantity="few">%1$s секунд тому</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d людина відповіли.</item>
+        <item quantity="one">1 людина відповіла.</item>
+        <item quantity="few">%1$d людей відповіли.</item>
+    </plurals>
+</resources>
